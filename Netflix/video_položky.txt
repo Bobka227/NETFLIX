@@ -1,0 +1,3 @@
+Forrest Gump;USA;FILM;drama;1:30
+The Shawshank Redemption;USA;FILM;drama;2:15
+Stranger Things;USA;SERIÁL;sci-fi;1:30
